@@ -1,0 +1,6 @@
+framework module Pods_madFeedbackTests {
+  umbrella header "Pods-madFeedbackTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

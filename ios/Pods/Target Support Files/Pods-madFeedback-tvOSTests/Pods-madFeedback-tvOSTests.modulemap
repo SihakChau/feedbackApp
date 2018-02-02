@@ -1,0 +1,6 @@
+framework module Pods_madFeedback_tvOSTests {
+  umbrella header "Pods-madFeedback-tvOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
